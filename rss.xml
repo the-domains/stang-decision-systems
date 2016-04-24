@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stang Decision Systems]]></title>
+        <description><![CDATA[Stang Decision Systems]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Apr 2016 16:39:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Stang Decision Systems</p>]]></description>
+            <link>undefinedstang-decision-systems/index.html</link>
+            <guid isPermaLink="false">79d4d62e-e8cb-4b17-9a72-45d0ea926821</guid>
+            <pubDate>Sun, 24 Apr 2016 16:39:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
