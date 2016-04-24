@@ -1,0 +1,28 @@
+name: Stang Decision Systems
+favicon: null
+layout_spectrum: 0.695446957135573
+typography_spectrum: 0.7035979880020022
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7885585143230855
+  lightness: 0.6365031625609845
+  saturation: 0.129260522313416
+  rhythmicContrast: 0.6824735789559782
+purpose: []
